@@ -1,0 +1,37 @@
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.exe
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.deps.json
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.runtimeconfig.json
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.runtimeconfig.dev.json
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.dll
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\ref\Week7_A.dll
+C:\Users\24861221\Desktop\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.pdb
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.csproj.AssemblyReference.cache
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.EnterExperiment.resources
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.csproj.GenerateResource.cache
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.AssemblyInfoInputs.cache
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.AssemblyInfo.cs
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.csproj.CoreCompileInputs.cache
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.dll
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\ref\Week7_A.dll
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.pdb
+C:\Users\24861221\Desktop\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.genruntimeconfig.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.exe
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.deps.json
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.runtimeconfig.json
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.runtimeconfig.dev.json
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\ref\Week7_A.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\bin\Debug\net5.0-windows\Week7_A.pdb
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.csproj.AssemblyReference.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.EnterExperiment.resources
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.csproj.GenerateResource.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.AssemblyInfoInputs.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.AssemblyInfo.cs
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.csproj.CoreCompileInputs.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\ref\Week7_A.dll
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.pdb
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.genruntimeconfig.cache
+C:\Users\24861221\OneDrive - Northeast Wisconsin Technical College\C#\Week7\Week7_A\Week7_A\obj\Debug\net5.0-windows\Week7_A.ExperimentReview.resources
